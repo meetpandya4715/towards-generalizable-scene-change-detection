@@ -64,7 +64,7 @@ Please follow this <a href="https://kensakurada.github.io/pcd_dataset.html"><str
 
 Please follow this <a href="https://github.com/SAMMiCA/ChangeSim"><strong>page</strong></a> to download the ChangeSim dataset.
 
-To download our **ChangeVPR** dataset, go <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTYO0D5p1jEc5NlYbKR9xWkd8NSXzLCCCLR3OTlQ2LPCZk2Q/viewform?usp=sharing"><strong>here</strong></a> to download it.
+To download our **ChangeVPR** dataset, go <a href="https://drive.google.com/drive/folders/1zYM768dXIEkbJ4WZwMosZ617QxAY2yzJ"><strong>here</strong></a> to download it.
 
 ### 📁 Dataset Structure
 
