@@ -2,6 +2,8 @@
 
 This repository represents the official implementation of the paper titled "Towards Generalizable Scene Change Detection (CVPR 2025)".
 
+> Fork note: this fork is used as the code submodule for the surrounding `GeSCD` research repository. It keeps the upstream project history while publishing the current local modifications used in that parent repo.
+
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2409.06214)
 [![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Website](https://img.shields.io/badge/Website-CVPR_2025-blue)](https://cvpr.thecvf.com/virtual/2025/poster/34711)
@@ -41,6 +43,8 @@ cd towards-generalizable-scene-change-detection/src
 ### 2. Install required dependencies
 
 You can install dependencies manually or using a `requirements.txt` file.
+
+This fork also includes `pyproject.toml`, `.python-version`, and `uv.lock` so the environment can be reproduced with `uv` if you prefer that workflow.
 
 ### 3. Download pretrained weights
 

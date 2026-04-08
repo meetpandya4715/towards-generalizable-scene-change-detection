@@ -1,0 +1,23 @@
+[project]
+name = "towards-generalizable-scene-change-detection"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "einops==0.8.1",
+    "matplotlib==3.8.4",
+    "numpy==2.3.1",
+    "opencv-python==4.11.0.86",
+    "pycocotools==2.0.8",
+    "scikit-image>=0.26.0",
+    "scipy==1.16.0",
+    "segment-anything>=1.0",
+    "torch==2.6.0+cu118",
+    "torchvision==0.21.0+cu118",
+    "tqdm==4.67.1",
+]
+
+[tool.uv]
+environments = ["sys_platform == 'win32'"]
+
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/cu118"
